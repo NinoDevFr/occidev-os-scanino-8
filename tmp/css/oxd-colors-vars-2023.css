@@ -1,28 +1,29 @@
 :root {
-	--oxd-white: #ffffff;
-	--oxd-black: #000000;
-	--oxd-red: #E50000;
-	--oxd-blue: #28517a;
-	--oxd-green: #005F00;
-	--oxd-brown: #a20202;
-	--oxd-purple: #790079;
-	--oxd-pink: #C4006a;
-	--oxd-grey: #7f7f7f;
-	--oxd-redocre: #c36e6e;
-	
+	/* generic colors */
+	--oxd-gen-white: #ffffff;
+	--oxd-gen-black: #000000;
+	--oxd-gen-red: #e50000;
+	--oxd-gen-blue: #28517a;
+	--oxd-gen-green: #005f00;
+	--oxd-gen-brown: #a20202;
+	--oxd-gen-purple: #790079;
+	--oxd-gen-pink: #c4006a;
+	--oxd-gen-grey: #7f7f7f;
+	--oxd-gen-redocre: #c36e6e;
+	/* admin rule colors */
 	--oxd-corp-personal: #56b269;
 	--oxd-corp-public: #454588;
 	--oxd-corp-admin: #cb4b58;
-	--oxd-corp-Help: #d89b1f;
-	--oxd-corp-Info: #30a6b9;
-
-	--oxd-theme-toulouse: #CF063F;
+	--oxd-corp-help: #d89b1f;
+	--oxd-corp-info: #30a6b9;
+	/* lifestyle, labels, categories colors */
+	--oxd-theme-toulouse: #cf063f;
 	--oxd-theme-press: #616161;
-	--oxd-theme-Food: #c0531c;
+	--oxd-theme-food: #c0531c;
 	--oxd-theme-music: #733f9a;
 	--oxd-theme-literature: #956327;
-	
-	--oxd-brand-tiktok: #EE1D52;
+	/* brands or social networks colors */
+	--oxd-brand-tiktok: #ee1d52;
 	--oxd-brand-viadeo: #f07355;
 	--oxd-brand-reddit: #ff4500;
 	--oxd-brand-dailymotion: #00aaff;
@@ -43,11 +44,11 @@
 	--oxd-brand-dribbble: #ea4c89;
 	--oxd-brand-quora: #a82400;
 	--oxd-brand-foursquare: #0072b1;
-	--oxd-brand-forrst: #5B9a68;
+	--oxd-brand-forrst: #5b9a68;
 	--oxd-brand-vk: #45668e;
 	--oxd-brand-wordpress: #21759b;
-	--oxd-brand-stumbleupon: #EB4823;
-	--oxd-brand-yahoo: #7B0099;
+	--oxd-brand-stumbleupon: #eb4823;
+	--oxd-brand-yahoo: #7b0099;
 	--oxd-brand-blogger: #fb8f3d;
 	--oxd-brand-soundcloud: #ff3a00;
 }
