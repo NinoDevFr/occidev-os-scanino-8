@@ -1,4 +1,11 @@
 :root {
+	/* indicative colors */	
+	--oxd-error: #b60c07;
+	--oxd-danger: #b60c07;
+	--oxd-warning: #bb7007;
+	--oxd-info: #007599;
+	--oxd-valid: #1d721d;
+	--oxd-success: #1d721d;
 	/* generic colors */
 	--oxd-gen-white: #ffffff;
 	--oxd-gen-black: #000000;
